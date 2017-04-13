@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.Mapbox.Services.Droid</id>
+        <version>1.3.1</version>
+        <description>Xamarin Binding Library - Mapbox Android Services</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Mapzen</title>
+        <releaseNotes>Mapbox Services Android v1.3.1, Mapbox Services 1.3.1 included</releaseNotes>
+        <summary>Xamarin Binding Library - Mapbox Android Services</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/xam-mapbox-services</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, Mapbox, Mapbox.Services, Mapbox.Services.Android</tags>
+        <dependencies>
+            <dependency id="GoogleGson" version="2.6.2.0" />
+            <dependency id="Naxam.Retrofit2.ConvertGson.Droid" version="2.1.0" />
+            <dependency id="Naxam.Retrofit2.Droid" version="2.1.0" />
+            <dependency id="Square.OkHttp3" version="3.5.0" />
+            <dependency id="Square.OkIO" version="1.11.0" />
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.Mapbox.Services.Droid/bin/Release/Naxam.Mapbox.Services.Droid.dll" target="lib/MonoAndroid10/Naxam.Mapbox.Services.Droid.dll" />
+    </files>
+</package>
