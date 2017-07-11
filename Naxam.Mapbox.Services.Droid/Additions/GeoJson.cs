@@ -3,7 +3,7 @@ namespace Mapbox.Services.Commons.GeoJson
 {
 	namespace Custom {
 		public partial class GeometryDeserializer {
-			Java.Lang.Object GoogleGson.IJsonDeserializer.Deserialize(global::GoogleGson.JsonElement p0, global::Java.Lang.Reflect.IType p1, global::GoogleGson.IJsonDeserializationContext p2) {
+			Java.Lang.Object Google.Gson.IJsonDeserializer.Deserialize(global::Google.Gson.JsonElement p0, global::Java.Lang.Reflect.IType p1, global::Google.Gson.IJsonDeserializationContext p2) {
 				return this.Deserialize(p0, p1, p2) as Java.Lang.Object;
 			}
 		}

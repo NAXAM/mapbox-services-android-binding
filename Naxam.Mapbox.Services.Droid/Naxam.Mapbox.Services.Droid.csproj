@@ -41,9 +41,6 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Mono.Android" />
-    <Reference Include="GoogleGson">
-      <HintPath>..\packages\GoogleGson.2.6.2.0\lib\MonoAndroid\GoogleGson.dll</HintPath>
-    </Reference>
     <Reference Include="Square.OkIO">
       <HintPath>..\packages\Square.OkIO.1.11.0\lib\MonoAndroid\Square.OkIO.dll</HintPath>
     </Reference>
@@ -53,8 +50,11 @@
     <Reference Include="Naxam.Retrofit2.Droid">
       <HintPath>..\packages\Naxam.Retrofit2.Droid.2.1.0\lib\MonoAndroid10\Naxam.Retrofit2.Droid.dll</HintPath>
     </Reference>
+    <Reference Include="Naxam.Google.Gson">
+      <HintPath>..\packages\Naxam.Google.Gson.2.6.2\lib\MonoAndroid10\Naxam.Google.Gson.dll</HintPath>
+    </Reference>
     <Reference Include="Naxam.Retrofit2.ConvertGson.Droid">
-      <HintPath>..\packages\Naxam.Retrofit2.ConvertGson.Droid.2.1.0\lib\MonoAndroid10\Naxam.Retrofit2.ConvertGson.Droid.dll</HintPath>
+      <HintPath>..\packages\Naxam.Retrofit2.ConvertGson.Droid.2.1.0.2\lib\MonoAndroid10\Naxam.Retrofit2.ConvertGson.Droid.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
