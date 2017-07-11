@@ -12,7 +12,7 @@
         <releaseNotes>Mapbox Services Android v1.3.1, Mapbox Services 1.3.1 included</releaseNotes>
         <summary>Xamarin Binding Library - Mapbox Android Services</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
-        <projectUrl>https://github.com/NAXAM/xam-mapbox-services</projectUrl>
+        <projectUrl>https://github.com/NAXAM/mapbox-services-android-binding</projectUrl>
         <copyright>Copyright (c) 2017 NAXAM</copyright>
         <tags>Xamarin.Android, Mapbox, Mapbox.Services, Mapbox.Services.Android</tags>
         <dependencies>
